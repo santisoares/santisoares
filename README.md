@@ -11,5 +11,5 @@ I'm looking forward to get a job where I can continue learning while working.
 <a href="https://www.linkedin.com/in/santiago-soares-gache" target="_blank">🤝 My linkedin profile</a>
 </p>
 <p align="left">
-<a href=" mailto:santisoaresgache@gmail.com" target="_blank">📧 santisoaresgache@gmail.com</a>
+<a href="mailto:santisoaresgache@gmail.com" target="_blank">📧 santisoaresgache@gmail.com</a>
 </p>
