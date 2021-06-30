@@ -8,7 +8,7 @@ I'm looking forward to get a job where I can continue learning while working.
 
 <h3 align="left">📫 How to reach me?</h3>
 <ul align="left">
-  <li><p>🤝<a href="https://www.linkedin.com/in/santiago-soares-gache" target="_blank">My linkedin profile</a></li></p>
-  <li><a href="mailto:santisoaresgache@gmail.com" target="_blank">📧 santisoaresgache@gmail.com</a></li>
+  <li><p>🤝 <a href="https://www.linkedin.com/in/santiago-soares-gache" target="_blank">My linkedin profile</a></li></p>
+  <li><p>📧 <a href="mailto:santisoaresgache@gmail.com" target="_blank">santisoaresgache@gmail.com</a></li></p>
 </ul>
 
