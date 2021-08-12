@@ -3,8 +3,8 @@
 I'm a Full Stack Developer with experience in CSS - JavaScript - React - Redux - Express - Sequalize - NodeJS - PostgresSQL.
 
 I'm looking forward to get a job where I can continue learning while working.
-
-- 🔭 I’m currently working on henry's final proyect (e-commerce)
+- 🔭 <a href="https://vinotecapp.vercel.app/home" target="_blank">ecommerce</a>
+- 🔭 <a href="https://recipe-sepia.vercel.app/addRecipe" target="_blank">individual proyect</a>
 - <p> <a href="https://www.canva.com/design/DAEkUGhHGpI/5k5-CRXOe-Xb7jM0sr_tDg/view?utm_content=DAEkUGhHGpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"/>Curriculum Vitae</p>
 
 <h3 align="left">📫 How to reach me?</h3>
